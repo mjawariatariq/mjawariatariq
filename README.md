@@ -1,8 +1,7 @@
 ![logo](https://github.com/mjawariatariq/mjawariatariq/blob/main/GitHub%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Jawaria Tariq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align='right'alt='coding'width='400' src=![image](https://github.com/mjawariatariq/mjawariatariq/assets/150448000/42b217a3-12bf-4afd-996c-a4943ea10421)
-
+<img align='right'alt='coding'width='400' src=![image](https://github.com/mjawariatariq/mjawariatariq/assets/150448000/39d2de7c-aa0d-454b-8fcd-e226d62da468)
 
 
 
