@@ -1,7 +1,7 @@
 ![logo](https://github.com/mjawariatariq/mjawariatariq/blob/main/GitHub%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Jawaria Tariq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align='right'alt='coding'width='400' src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbgbatCRxNB73x36e2Y9Nan_qCQQmlbq93Bg&usqp=CAU
+<img align='right'alt='coding'width='400' src=[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbgbatCRxNB73x36e2Y9Nan_qCQQmlbq93Bg&usqp=CAU](https://www.google.com.pk/url?sa=i&url=https%3A%2F%2Fgithub.com%2FLalarukh-khan&psig=AOvVaw3eF3CYV0M-b28G-6-CgVSk&ust=1709232189127000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiR_6DYzoQDFQAAAAAdAAAAABAI)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjawariatariq&label=Profile%20views&color=0e75b6&style=flat" alt="mjawariatariq" /> </p>
 
