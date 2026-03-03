@@ -46,8 +46,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
 </a>
 
-<a href="https://n8n.io/" target="_blank" title="Automation & Workflow Integration">
-<img src="https://avatars.githubusercontent.com/u/102904620?s=200&v=4" width="50" height="50"/>
+<a href="https://n8n.io/" target="_blank">
+<<a href="https://n8n.io/" target="_blank" style="font-size:14px; font-weight:bold; color:#ff3c00; text-decoration:none; margin-left:10px;">
 </a>
 
 </p>
