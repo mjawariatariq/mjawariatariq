@@ -16,8 +16,6 @@
 - 🤝 I’m looking for support in **improving my Python programming skills**.  
 - 👨‍💻 All of my projects are available at:  
   🔗 [https://github.com/mjawariatariq/Projects]
-- 📝 I regularly write articles on:  
-  🔗 www.jawariasarticle.wordpress.com  
 - 💬 Ask me about **my progress or if you need assistance**.  
 - 📫 How to reach me: **mjawariatariq@gmail.com**  
 - ⚡ Fun fact: **Python got its name from the renowned British comedy group, Monty Python!**
