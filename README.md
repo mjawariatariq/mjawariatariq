@@ -34,19 +34,22 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
-</a>
-
 <a href="https://jupyter.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
 </a>
 
-<a href="https://scikit-learn.org/" target="_blank">
+<a href="https://scikit-learn.org/" target="_blank" title="Machine Learning (Random Forest, etc.)">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
 </a>
 
-</p>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://n8n.io/" target="_blank" title="Automation & Workflow Integration">
+<img src="https://avatars.githubusercontent.com/u/102904620?s=200&v=4" width="50" height="50"/>
+</a>
+
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjawariatariq&" alt="mjawariatariq" /></p>
